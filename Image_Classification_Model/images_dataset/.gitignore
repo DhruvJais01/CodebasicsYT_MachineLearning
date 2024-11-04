@@ -1,0 +1,13 @@
+virat_kohli/
+roger_federer/
+maria_sharapova/
+lionel_messi/
+serena_williams/
+
+# do not ignore
+!cropped/virat_kohli/
+!cropped/roger_federer/
+!cropped/maria_sharapova/
+!cropped/lionel_messi/
+!cropped/serena_williams/
+
